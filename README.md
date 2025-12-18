@@ -13,3 +13,7 @@ Carta is currently undergoing a transition to support the following features:
 - Multiple LLM providers (Currently only OpenAI is supported)
 - i18n support (Currently only Traditional Chinese is supported)
 - Multiple guild support
+
+Different from the original project, which was made for just one Discord server, the new version will support multiple guilds with separate player data, configuration, and card collections. Effectively, each guild can have its own Carta "game server".
+
+A public instance will be made available once the transition is complete.
