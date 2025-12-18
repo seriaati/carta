@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(alembic revision:*)",
+      "Bash(ruff check:*)",
+      "Bash(pyright:*)",
+      "Bash(ruff format:*)",
+      "Bash(uv run:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
